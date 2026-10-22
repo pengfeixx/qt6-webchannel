@@ -1,1 +1,3 @@
-usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/webchannel/chatserver-cpp/chatserver
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/webchannel/chatclient-qml/bin/qmlchatclient
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/webchannel/chatserver-cpp/bin/chatserver
+usr/share/qt6/webchannel/qwebchannel.js

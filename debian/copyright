@@ -9,7 +9,7 @@ Copyright: 2016 Klarälvdalens Datakonsult AB, a KDAB Group company <info@kdab.c
 License: LGPL-3 or GPL-2-or-3 with KDE Exception
 
 Files: debian/*
-Copyright: 2021-2023 Patrick Franz <deltaone@debian.org>
+Copyright: 2021-2026 Patrick Franz <deltaone@debian.org>
 License: LGPL-3 or GPL-2-or-3 with KDE Exception
 
 Files: examples/*
@@ -17,11 +17,6 @@ Copyright: 2016 Klarälvdalens Datakonsult AB, a KDAB Group company <info@kdab.c
            2016 The Qt Company Ltd
            2016 basysKom GmbH <info@basyskom.com>
 License: BSD-3-clause
-
-Files: examples/webchannel/shared/qwebchannel.js
-Copyright: 2016 The Qt Company Ltd.
-           2016 Klarälvdalens Datakonsult AB, a KDAB Group company <info@kdab.com>
-License: LGPL-3 or GPL-2-or-3 with KDE Exception
 
 Files: src/webchannel/doc/src/examples.qdoc
        src/webchannel/doc/src/index.qdoc
